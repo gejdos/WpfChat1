@@ -1,0 +1,2 @@
+Zadani ulohy WPF Chat:
+Vytvorte visual/design chatu v technologii WPF. Na dalsi lekci ho sprovoznime.
